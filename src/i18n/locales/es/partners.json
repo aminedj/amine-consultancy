@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "title": "Asóciate con Nosotros",
+    "subtitle": "Únete a nuestro ecosistema de socios y ayuda a las empresas a transformarse con IA. Juntos, crearemos soluciones innovadoras e impulsaremos el crecimiento.",
+    "becomePartner": "Conviértete en Socio",
+    "learnMore": "Saber Más"
+  },
+  "strategicPartners": {
+    "title": "Socios Estratégicos",
+    "partners": {
+      "microsoft": {
+        "name": "Microsoft",
+        "description": "Asociación estratégica de nube e IA que ofrece soluciones empresariales.",
+        "type": "Socio Tecnológico"
+      },
+      "aws": {
+        "name": "Amazon Web Services",
+        "description": "Socio consultor premier para infraestructura en la nube.",
+        "type": "Socio de Nube"
+      },
+      "google": {
+        "name": "Google Cloud",
+        "description": "Asociación en soluciones de IA y aprendizaje automático.",
+        "type": "Socio Tecnológico"
+      }
+    }
+  },
+  "benefits": {
+    "title": "Beneficios para Socios",
+    "subtitle": "Únete a nuestro ecosistema de socios y desbloquea beneficios y oportunidades exclusivas.",
+    "items": {
+      "marketExpansion": {
+        "title": "Expansión de Mercado",
+        "description": "Accede a nuevos mercados y clientes a través de nuestra red global."
+      },
+      "integration": {
+        "title": "Integración Técnica",
+        "description": "Integración perfecta con nuestra plataforma empresarial de IA."
+      },
+      "certification": {
+        "title": "Programa de Certificación",
+        "description": "Programas completos de formación y certificación."
+      },
+      "support": {
+        "title": "Soporte Global",
+        "description": "Soporte y recursos para socios 24/7 en todo el mundo."
+      }
+    }
+  },
+  "programs": {
+    "title": "Programas de Socios",
+    "technology": {
+      "title": "Socios Tecnológicos",
+      "description": "Asóciate con nosotros para integrar tu tecnología con nuestra plataforma de IA.",
+      "benefits": [
+        "Acceso a API y documentación",
+        "Soporte técnico y recursos",
+        "Oportunidades de marketing conjunto"
+      ]
+    },
+    "solution": {
+      "title": "Socios de Soluciones",
+      "description": "Entrega soluciones completas de IA a tus clientes empresariales.",
+      "benefits": [
+        "Capacitación en ventas",
+        "Soporte de implementación",
+        "Participación en ingresos"
+      ]
+    },
+    "consulting": {
+      "title": "Socios Consultores",
+      "description": "Proporciona servicios de consultoría estratégica utilizando nuestra plataforma.",
+      "benefits": [
+        "Formación y certificación",
+        "Soporte de proyectos",
+        "Compartición de leads"
+      ]
+    }
+  },
+  "application": {
+    "title": "Conviértete en Socio",
+    "subtitle": "Da el primer paso hacia una asociación gratificante. Completa el formulario a continuación y nuestro equipo de partnerships te contactará.",
+    "form": {
+      "companyName": "Nombre de la Empresa",
+      "website": "Sitio Web",
+      "contactName": "Nombre de Contacto",
+      "email": "Correo Electrónico",
+      "partnershipType": {
+        "label": "Tipo de Partnership",
+        "placeholder": "Selecciona un tipo de partnership",
+        "technology": "Socio Tecnológico",
+        "solution": "Socio de Soluciones",
+        "consulting": "Socio Consultor"
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Cuéntanos sobre tu empresa y objetivos de partnership..."
+      },
+      "submit": "Enviar Solicitud"
+    }
+  }
+}

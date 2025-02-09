@@ -1,0 +1,20 @@
+{
+  "title": "Casos de Éxito",
+  "cases": {
+    "analytics": {
+      "title": "Plataforma de Análisis Impulsada por IA",
+      "client": "Institución Financiera Fortune 500",
+      "result": "150% de aumento en la precisión de predicción"
+    },
+    "cloud": {
+      "title": "Migración y Optimización Cloud",
+      "client": "Cadena Minorista Global",
+      "result": "40% de reducción en costos operativos"
+    },
+    "automation": {
+      "title": "Suite de Automatización Inteligente",
+      "client": "Red de Proveedores de Salud",
+      "result": "85% más rápido en tiempo de procesamiento"
+    }
+  }
+}

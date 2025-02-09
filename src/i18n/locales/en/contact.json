@@ -1,0 +1,13 @@
+{
+  "title": "Let's Build Something Amazing Together",
+  "subtitle": "Ready to transform your enterprise with cutting-edge AI and cloud solutions? Get in touch with our experts today.",
+  "email": "contact@youragency.com",
+  "phone": "+1 (555) 123-4567",
+  "address": "123 Innovation Drive, Tech City, TC 12345",
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message"
+  }
+}

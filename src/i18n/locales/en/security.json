@@ -1,0 +1,46 @@
+{
+  "title": "Security",
+  "lastUpdated": "Last updated: {{date}}",
+  "introduction": "Security is at the core of everything we do. We implement industry-leading security measures to protect your data and ensure the integrity of our services.",
+  "measures": {
+    "title": "Security Measures",
+    "encryption": {
+      "title": "End-to-End Encryption",
+      "description": "We use state-of-the-art encryption protocols to secure data both in transit and at rest, ensuring your information remains confidential."
+    },
+    "infrastructure": {
+      "title": "Secure Infrastructure",
+      "description": "Our infrastructure is hosted in SOC 2 certified data centers with 24/7 physical security, redundant power systems, and environmental controls."
+    },
+    "access": {
+      "title": "Access Control",
+      "description": "We implement strict access controls, multi-factor authentication, and regular access reviews to protect your data."
+    },
+    "monitoring": {
+      "title": "24/7 Monitoring",
+      "description": "Our security operations center provides round-the-clock monitoring and threat detection to prevent and respond to security incidents."
+    }
+  },
+  "certifications": {
+    "title": "Security Certifications",
+    "iso": "Certified for information security management systems, ensuring we meet international security standards.",
+    "soc2": "Independently audited for security, availability, processing integrity, confidentiality, and privacy.",
+    "gdpr": "Compliant with EU data protection regulations, ensuring the highest standards of data privacy."
+  },
+  "incident": {
+    "title": "Incident Response",
+    "description": "We maintain a comprehensive incident response plan that includes detection, analysis, containment, eradication, and recovery procedures.",
+    "response": "24/7 incident response team ready to address security concerns"
+  },
+  "team": {
+    "title": "Security Team",
+    "description": "Our dedicated security team consists of certified professionals with extensive experience in enterprise security, threat detection, and incident response."
+  },
+  "contact": {
+    "title": "Security Contact",
+    "content": "For security-related inquiries or to report a security incident, please contact our security team:",
+    "email": "Email",
+    "emergency": "Emergency Contact",
+    "address": "Address"
+  }
+}

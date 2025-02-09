@@ -1,0 +1,46 @@
+{
+  "title": "Seguridad",
+  "lastUpdated": "Última actualización: {{date}}",
+  "introduction": "La seguridad está en el centro de todo lo que hacemos. Implementamos medidas de seguridad líderes en la industria para proteger sus datos y garantizar la integridad de nuestros servicios.",
+  "measures": {
+    "title": "Medidas de Seguridad",
+    "encryption": {
+      "title": "Cifrado de Extremo a Extremo",
+      "description": "Utilizamos protocolos de cifrado de última generación para asegurar los datos tanto en tránsito como en reposo, garantizando que su información permanezca confidencial."
+    },
+    "infrastructure": {
+      "title": "Infraestructura Segura",
+      "description": "Nuestra infraestructura está alojada en centros de datos certificados SOC 2 con seguridad física 24/7, sistemas de energía redundantes y controles ambientales."
+    },
+    "access": {
+      "title": "Control de Acceso",
+      "description": "Implementamos controles de acceso estrictos, autenticación multifactor y revisiones regulares de acceso para proteger sus datos."
+    },
+    "monitoring": {
+      "title": "Monitoreo 24/7",
+      "description": "Nuestro centro de operaciones de seguridad proporciona monitoreo y detección de amenazas las 24 horas para prevenir y responder a incidentes de seguridad."
+    }
+  },
+  "certifications": {
+    "title": "Certificaciones de Seguridad",
+    "iso": "Certificado para sistemas de gestión de seguridad de la información, asegurando que cumplimos con los estándares internacionales de seguridad.",
+    "soc2": "Auditado independientemente para seguridad, disponibilidad, integridad del procesamiento, confidencialidad y privacidad.",
+    "gdpr": "Cumplimiento con las regulaciones de protección de datos de la UE, garantizando los más altos estándares de privacidad de datos."
+  },
+  "incident": {
+    "title": "Respuesta a Incidentes",
+    "description": "Mantenemos un plan integral de respuesta a incidentes que incluye procedimientos de detección, análisis, contención, erradicación y recuperación.",
+    "response": "Equipo de respuesta a incidentes 24/7 listo para abordar problemas de seguridad"
+  },
+  "team": {
+    "title": "Equipo de Seguridad",
+    "description": "Nuestro equipo dedicado de seguridad está compuesto por profesionales certificados con amplia experiencia en seguridad empresarial, detección de amenazas y respuesta a incidentes."
+  },
+  "contact": {
+    "title": "Contacto de Seguridad",
+    "content": "Para consultas relacionadas con la seguridad o para reportar un incidente de seguridad, contacte a nuestro equipo de seguridad:",
+    "email": "Correo electrónico",
+    "emergency": "Contacto de Emergencia",
+    "address": "Dirección"
+  }
+}

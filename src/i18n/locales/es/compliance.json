@@ -1,0 +1,59 @@
+{
+  "title": "Cumplimiento Normativo",
+  "lastUpdated": "Última actualización: {{date}}",
+  "introduction": "Mantenemos los más altos estándares de cumplimiento normativo y protección de datos. Nuestro programa integral de cumplimiento garantiza que cumplimos y superamos los requisitos de la industria mientras protegemos los intereses de nuestros clientes.",
+  "frameworks": {
+    "title": "Marcos de Cumplimiento",
+    "lastAudit": "Última Auditoría",
+    "nextAudit": "Próxima Auditoría",
+    "iso": {
+      "status": "Certificado",
+      "description": "Certificación del sistema de gestión de seguridad de la información que garantiza el cumplimiento de los estándares internacionales de seguridad."
+    },
+    "soc2": {
+      "status": "Conforme",
+      "description": "Verificación de auditoría independiente de controles de seguridad, disponibilidad, integridad del procesamiento, confidencialidad y privacidad."
+    },
+    "gdpr": {
+      "status": "Conforme",
+      "description": "Cumplimiento total con los requisitos del Reglamento General de Protección de Datos de la UE para la privacidad y protección de datos."
+    },
+    "hipaa": {
+      "status": "Conforme",
+      "description": "Cumplimiento de privacidad y seguridad de la información de salud para información de salud protegida."
+    }
+  },
+  "practices": {
+    "title": "Prácticas de Cumplimiento",
+    "training": {
+      "title": "Capacitación de Empleados",
+      "description": "Programas regulares de capacitación y certificación en cumplimiento para todos los empleados."
+    },
+    "documentation": {
+      "title": "Documentación",
+      "description": "Documentación integral de políticas, procedimientos y controles."
+    },
+    "monitoring": {
+      "title": "Monitoreo Continuo",
+      "description": "Monitoreo en tiempo real y auditorías regulares de controles de cumplimiento."
+    },
+    "incident": {
+      "title": "Gestión de Incidentes",
+      "description": "Enfoque estructurado para manejar incidentes y violaciones relacionadas con el cumplimiento."
+    }
+  },
+  "documentation": {
+    "title": "Documentación de Cumplimiento",
+    "description": "Acceda a nuestra documentación y certificaciones de cumplimiento:",
+    "certifications": "Ver Certificaciones",
+    "policies": "Descargar Políticas de Cumplimiento",
+    "reports": "Acceder a Informes de Cumplimiento"
+  },
+  "contact": {
+    "title": "Contacto de Cumplimiento",
+    "content": "Para consultas relacionadas con el cumplimiento o para reportar preocupaciones de cumplimiento, contacte a nuestro equipo de cumplimiento:",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "address": "Dirección"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "companyName": "Your Agency",
+  "description": "Transforming enterprises with cutting-edge AI and cloud solutions. Building the future of technology, one innovation at a time.",
+  "copyright": "© {{year}} Your Agency. All rights reserved.",
+  "links": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "sitemap": "Sitemap"
+  },
+  "sections": {
+    "solutions": {
+      "title": "Solutions",
+      "aiIntegration": "AI Integration",
+      "cloudArchitecture": "Cloud Architecture",
+      "security": "Enterprise Security",
+      "analytics": "Data Analytics",
+      "mlops": "MLOps"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "blog": "Blog",
+      "press": "Press",
+      "partners": "Partners"
+    },
+    "resources": {
+      "title": "Resources",
+      "documentation": "Documentation",
+      "caseStudies": "Case Studies",
+      "whitePapers": "White Papers",
+      "webinars": "Webinars",
+      "api": "API Reference"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "security": "Security",
+      "compliance": "Compliance"
+    }
+  },
+  "social": {
+    "twitter": "Follow us on Twitter",
+    "linkedin": "Connect with us on LinkedIn",
+    "github": "View our GitHub"
+  }
+}

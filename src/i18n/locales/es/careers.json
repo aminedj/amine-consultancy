@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "Únete a Nuestro Equipo",
+    "subtitle": "Construye el futuro de la IA y la tecnología cloud con nosotros. Buscamos talento excepcional para ayudar a transformar empresas en todo el mundo.",
+    "viewJobs": "Ver Posiciones Abiertas",
+    "learnMore": "Conoce Nuestra Cultura"
+  },
+  "values": {
+    "title": "Nuestros Valores",
+    "innovation": {
+      "title": "Innovación Primero",
+      "description": "Empujamos los límites y adoptamos nuevas tecnologías para resolver desafíos complejos."
+    },
+    "collaboration": {
+      "title": "Mejores Juntos",
+      "description": "Creemos en el poder de equipos diversos trabajando hacia objetivos comunes."
+    },
+    "impact": {
+      "title": "Genera Impacto",
+      "description": "Cada miembro del equipo tiene la oportunidad de hacer contribuciones significativas."
+    }
+  },
+  "benefits": {
+    "title": "Por Qué Unirte",
+    "remote": {
+      "title": "Trabajo Remoto",
+      "description": "Trabaja desde cualquier lugar con horarios flexibles y herramientas colaborativas."
+    },
+    "health": {
+      "title": "Beneficios Completos",
+      "description": "Cobertura médica completa, planes de jubilación y programas de bienestar."
+    },
+    "balance": {
+      "title": "Balance Vida-Trabajo",
+      "description": "Vacaciones ilimitadas, horarios flexibles y días de salud mental."
+    },
+    "learning": {
+      "title": "Crecimiento y Desarrollo",
+      "description": "Presupuesto para aprendizaje, conferencias y apoyo al desarrollo profesional."
+    }
+  },
+  "departments": {
+    "all": "Todos los Departamentos",
+    "engineering": "Ingeniería",
+    "data": "Ciencia de Datos",
+    "security": "Seguridad",
+    "product": "Producto"
+  },
+  "openings": {
+    "title": "Posiciones Abiertas",
+    "search": "Buscar posiciones...",
+    "apply": "Aplicar Ahora",
+    "noResults": "No se encontraron posiciones que coincidan con tus criterios.",
+    "location": "Ubicación",
+    "type": "Tipo"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Somos un equipo de innovadores y expertos dedicados a transformar empresas a través de soluciones de IA y cloud de vanguardia."
+  },
+  "values": {
+    "title": "Nuestros Valores",
+    "innovation": {
+      "title": "Innovación",
+      "description": "Empujando límites y explorando nuevas posibilidades en tecnología"
+    },
+    "collaboration": {
+      "title": "Colaboración",
+      "description": "Trabajando juntos para lograr resultados extraordinarios"
+    },
+    "excellence": {
+      "title": "Excelencia",
+      "description": "Entregando la más alta calidad en todo lo que hacemos"
+    },
+    "impact": {
+      "title": "Impacto",
+      "description": "Creando cambios significativos para nuestros clientes y la sociedad"
+    }
+  },
+  "team": {
+    "title": "Nuestro Liderazgo",
+    "sarah": "Más de 20 años de experiencia en transformación empresarial y liderazgo tecnológico",
+    "michael": "Ex ingeniero de Google con experiencia en arquitectura cloud y sistemas de IA",
+    "emily": "Doctorado en Aprendizaje Automático con enfoque en aplicaciones empresariales de IA"
+  }
+}

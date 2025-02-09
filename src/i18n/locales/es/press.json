@@ -1,0 +1,44 @@
+{
+  "title": "Prensa y Medios",
+  "subtitle": "Obtén las últimas noticias, comunicados de prensa y cobertura mediática sobre las innovaciones de Tu Agencia en soluciones empresariales de IA.",
+  "sections": {
+    "pressReleases": {
+      "title": "Comunicados de Prensa",
+      "searchPlaceholder": "Buscar comunicados de prensa...",
+      "filterYear": "Filtrar por año",
+      "readMore": "Leer Más"
+    },
+    "mediaCoverage": {
+      "title": "Cobertura Mediática",
+      "viewArticle": "Ver Artículo"
+    },
+    "mediaResources": {
+      "title": "Recursos para Medios",
+      "pressKit": {
+        "title": "Kit de Prensa",
+        "description": "Descarga nuestro kit de prensa que contiene logotipos, fotos ejecutivas e información de la empresa.",
+        "download": "Descargar Kit de Prensa"
+      },
+      "mediaContact": {
+        "title": "Contacto para Medios",
+        "description": "Para consultas de prensa, contacta a nuestro equipo de relaciones con los medios.",
+        "email": "prensa@tuagencia.com",
+        "link": "Relaciones con los Medios"
+      }
+    }
+  },
+  "companyFacts": {
+    "founded": {
+      "title": "Fundada",
+      "value": "2018"
+    },
+    "recognition": {
+      "title": "Reconocimiento de la Industria",
+      "value": "15+ Premios"
+    },
+    "growth": {
+      "title": "Crecimiento Anual",
+      "value": "200%"
+    }
+  }
+}

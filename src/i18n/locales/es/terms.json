@@ -1,0 +1,39 @@
+{
+  "title": "Términos de Servicio",
+  "lastUpdated": "Última actualización: {{date}}",
+  "introduction": "Por favor, lea estos Términos de Servicio cuidadosamente antes de usar nuestros servicios. Al usar nuestros servicios, acepta estar sujeto a estos términos.",
+  "agreement": {
+    "title": "Acuerdo de Términos",
+    "content": "Al acceder o utilizar nuestros servicios, acepta estar sujeto a estos Términos. Si no está de acuerdo con alguna parte de los términos, no podrá acceder a nuestros servicios."
+  },
+  "services": {
+    "title": "Descripción de Servicios",
+    "content": "Proporcionamos soluciones de IA y cloud de nivel empresarial, incluyendo pero no limitado a integración de IA, arquitectura cloud, servicios de seguridad y optimización de rendimiento."
+  },
+  "intellectual": {
+    "title": "Propiedad Intelectual",
+    "content": "El servicio y su contenido original, características y funcionalidad son y seguirán siendo propiedad exclusiva de nuestra empresa y sus licenciantes."
+  },
+  "liability": {
+    "title": "Limitación de Responsabilidad",
+    "content": "En ningún caso nuestra empresa será responsable por daños indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo sin limitación, pérdida de beneficios, datos, uso, buena voluntad u otras pérdidas intangibles."
+  },
+  "usage": {
+    "title": "Uso Aceptable",
+    "content": "Acepta no utilizar el servicio para ningún propósito ilegal o de cualquier manera que pueda dañar, deshabilitar, sobrecargar o perjudicar nuestro servicio."
+  },
+  "support": {
+    "title": "Soporte Técnico",
+    "content": "Proporcionamos soporte técnico para nuestros servicios de acuerdo con los acuerdos de nivel de servicio especificados en su contrato."
+  },
+  "contact": {
+    "title": "Información de Contacto",
+    "content": "Para cualquier pregunta sobre estos Términos, contacte a nuestro equipo legal en:",
+    "email": "Correo electrónico",
+    "address": "Dirección"
+  },
+  "acceptance": {
+    "title": "Aceptación de Términos",
+    "content": "Al utilizar nuestros servicios, reconoce que ha leído y entendido estos Términos de Servicio y acepta estar sujeto a ellos."
+  }
+}

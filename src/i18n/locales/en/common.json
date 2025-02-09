@@ -1,0 +1,34 @@
+{
+  "languageName": "English",
+  "buttons": {
+    "scheduleConsultation": "Contact Us",
+    "learnMore": "Learn more",
+    "viewCaseStudy": "View case study",
+    "getStarted": "Get Started",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "submit": "Submit",
+    "download": "Download",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "meta": {
+    "readTime": "{{minutes}} min read",
+    "published": "Published {{date}}",
+    "updated": "Updated {{date}}"
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "serverError": "Server error",
+    "tryAgain": "Please try again"
+  }
+}

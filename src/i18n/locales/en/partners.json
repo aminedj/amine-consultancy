@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "title": "Partner with Us",
+    "subtitle": "Join our partner ecosystem and help enterprises transform with AI. Together, we'll create innovative solutions and drive growth.",
+    "becomePartner": "Become a Partner",
+    "learnMore": "Learn More"
+  },
+  "strategicPartners": {
+    "title": "Strategic Partners",
+    "partners": {
+      "microsoft": {
+        "name": "Microsoft",
+        "description": "Strategic cloud and AI partnership delivering enterprise solutions.",
+        "type": "Technology Partner"
+      },
+      "aws": {
+        "name": "Amazon Web Services",
+        "description": "Premier consulting partner for cloud infrastructure.",
+        "type": "Cloud Partner"
+      },
+      "google": {
+        "name": "Google Cloud",
+        "description": "AI and machine learning solutions partnership.",
+        "type": "Technology Partner"
+      }
+    }
+  },
+  "benefits": {
+    "title": "Partner Benefits",
+    "subtitle": "Join our partner ecosystem and unlock exclusive benefits and opportunities.",
+    "items": {
+      "marketExpansion": {
+        "title": "Market Expansion",
+        "description": "Access new markets and customers through our global network."
+      },
+      "integration": {
+        "title": "Technical Integration",
+        "description": "Seamless integration with our enterprise AI platform."
+      },
+      "certification": {
+        "title": "Certification Program",
+        "description": "Comprehensive training and certification programs."
+      },
+      "support": {
+        "title": "Global Support",
+        "description": "24/7 partner support and resources worldwide."
+      }
+    }
+  },
+  "programs": {
+    "title": "Partner Programs",
+    "technology": {
+      "title": "Technology Partners",
+      "description": "Partner with us to integrate your technology with our AI platform.",
+      "benefits": [
+        "API access and documentation",
+        "Technical support and resources",
+        "Joint marketing opportunities"
+      ]
+    },
+    "solution": {
+      "title": "Solution Partners",
+      "description": "Deliver complete AI solutions to your enterprise customers.",
+      "benefits": [
+        "Sales enablement",
+        "Implementation support",
+        "Revenue sharing"
+      ]
+    },
+    "consulting": {
+      "title": "Consulting Partners",
+      "description": "Provide strategic consulting services using our platform.",
+      "benefits": [
+        "Training and certification",
+        "Project support",
+        "Lead sharing"
+      ]
+    }
+  },
+  "application": {
+    "title": "Become a Partner",
+    "subtitle": "Take the first step towards a rewarding partnership. Fill out the form below and our partnership team will contact you.",
+    "form": {
+      "companyName": "Company Name",
+      "website": "Website",
+      "contactName": "Contact Name",
+      "email": "Email",
+      "partnershipType": {
+        "label": "Partnership Type",
+        "placeholder": "Select a partnership type",
+        "technology": "Technology Partner",
+        "solution": "Solution Partner",
+        "consulting": "Consulting Partner"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us about your company and partnership goals..."
+      },
+      "submit": "Submit Application"
+    }
+  }
+}

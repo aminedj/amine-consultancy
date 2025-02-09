@@ -1,0 +1,35 @@
+{
+  "title": "Política de Privacidad",
+  "lastUpdated": "Última actualización: {{date}}",
+  "introduction": "Su privacidad es importante para nosotros. Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y protegemos su información cuando utiliza nuestros servicios.",
+  "dataCollection": {
+    "title": "Información que Recopilamos",
+    "content": "Recopilamos información que nos proporciona directamente, incluyendo nombre, dirección de correo electrónico y cualquier otra información que elija proporcionar. También recopilamos automáticamente cierta información cuando utiliza nuestros servicios."
+  },
+  "dataUsage": {
+    "title": "Cómo Usamos su Información",
+    "content": "Utilizamos la información que recopilamos para proporcionar, mantener y mejorar nuestros servicios, desarrollar nuevos servicios y protegernos a nosotros y a nuestros usuarios."
+  },
+  "dataSecurity": {
+    "title": "Seguridad de Datos",
+    "content": "Implementamos medidas de seguridad técnicas y organizativas apropiadas para proteger la seguridad de su información personal. Sin embargo, tenga en cuenta que ningún método de transmisión por Internet es 100% seguro."
+  },
+  "dataTransfer": {
+    "title": "Transferencia Internacional de Datos",
+    "content": "Su información puede ser transferida y mantenida en computadoras ubicadas fuera de su estado, provincia, país u otra jurisdicción gubernamental donde las leyes de protección de datos pueden ser diferentes."
+  },
+  "dataRetention": {
+    "title": "Retención de Datos",
+    "content": "Conservamos la información personal que recopilamos de usted durante el tiempo necesario para cumplir con los fines para los que la recopilamos."
+  },
+  "yourRights": {
+    "title": "Sus Derechos",
+    "content": "Tiene derecho a acceder, actualizar o eliminar su información. También puede oponerse al procesamiento de su información personal, solicitar que restrinjamos el procesamiento o solicitar la portabilidad."
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "content": "Si tiene alguna pregunta sobre esta Política de Privacidad, contáctenos en:",
+    "email": "Correo electrónico",
+    "address": "Dirección"
+  }
+}

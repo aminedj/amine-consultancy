@@ -1,0 +1,59 @@
+{
+  "title": "Compliance",
+  "lastUpdated": "Last updated: {{date}}",
+  "introduction": "We maintain the highest standards of regulatory compliance and data protection. Our comprehensive compliance program ensures we meet and exceed industry requirements while protecting our clients' interests.",
+  "frameworks": {
+    "title": "Compliance Frameworks",
+    "lastAudit": "Last Audit",
+    "nextAudit": "Next Audit",
+    "iso": {
+      "status": "Certified",
+      "description": "Information security management system certification ensuring we meet international security standards."
+    },
+    "soc2": {
+      "status": "Compliant",
+      "description": "Independent audit verification of security, availability, processing integrity, confidentiality, and privacy controls."
+    },
+    "gdpr": {
+      "status": "Compliant",
+      "description": "Full compliance with EU General Data Protection Regulation requirements for data privacy and protection."
+    },
+    "hipaa": {
+      "status": "Compliant",
+      "description": "Healthcare information privacy and security compliance for protected health information."
+    }
+  },
+  "practices": {
+    "title": "Compliance Practices",
+    "training": {
+      "title": "Employee Training",
+      "description": "Regular compliance training and certification programs for all employees."
+    },
+    "documentation": {
+      "title": "Documentation",
+      "description": "Comprehensive documentation of policies, procedures, and controls."
+    },
+    "monitoring": {
+      "title": "Continuous Monitoring",
+      "description": "Real-time monitoring and regular audits of compliance controls."
+    },
+    "incident": {
+      "title": "Incident Management",
+      "description": "Structured approach to handling compliance-related incidents and violations."
+    }
+  },
+  "documentation": {
+    "title": "Compliance Documentation",
+    "description": "Access our compliance documentation and certifications:",
+    "certifications": "View Certifications",
+    "policies": "Download Compliance Policies",
+    "reports": "Access Compliance Reports"
+  },
+  "contact": {
+    "title": "Compliance Contact",
+    "content": "For compliance-related inquiries or to report compliance concerns, please contact our compliance team:",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address"
+  }
+}

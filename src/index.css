@@ -1,0 +1,38 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import './styles/components.css';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900 font-sans;
+  }
+}
+
+.carousel-container {
+  @apply overflow-hidden relative;
+}
+
+.carousel-track {
+  @apply flex absolute left-0 items-center gap-16;
+  height: 100%;
+  will-change: transform;
+  transition: transform 0.5s ease-out;
+}
+
+.carousel-card {
+  @apply flex justify-center items-center flex-shrink-0 transition-transform duration-300 hover:scale-105;
+  height: 100%;
+}
+
+.tech-logo {
+  @apply w-24 h-24 flex-shrink-0 grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100;
+}
+
+@keyframes dash {
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes draw {
+  to { stroke-dashoffset: 0; }
+}

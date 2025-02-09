@@ -1,0 +1,20 @@
+{
+  "title": "Success Stories",
+  "cases": {
+    "analytics": {
+      "title": "AI-Driven Analytics Platform",
+      "client": "Fortune 500 Financial Institution",
+      "result": "150% increase in prediction accuracy"
+    },
+    "cloud": {
+      "title": "Cloud Migration & Optimization",
+      "client": "Global Retail Chain",
+      "result": "40% reduction in operational costs"
+    },
+    "automation": {
+      "title": "Intelligent Automation Suite",
+      "client": "Healthcare Provider Network",
+      "result": "85% faster processing time"
+    }
+  }
+}

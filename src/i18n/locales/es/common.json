@@ -1,0 +1,34 @@
+{
+  "languageName": "Español",
+  "buttons": {
+    "scheduleConsultation": "Contáctanos",
+    "learnMore": "Saber más",
+    "viewCaseStudy": "Ver caso de éxito",
+    "getStarted": "Comenzar",
+    "readMore": "Leer más",
+    "viewAll": "Ver todo",
+    "submit": "Enviar",
+    "download": "Descargar",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "caseStudies": "Casos de Éxito",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "meta": {
+    "readTime": "{{minutes}} min de lectura",
+    "published": "Publicado el {{date}}",
+    "updated": "Actualizado el {{date}}"
+  },
+  "errors": {
+    "notFound": "Página no encontrada",
+    "serverError": "Error del servidor",
+    "tryAgain": "Por favor, inténtalo de nuevo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Tecnologías que Dominamos",
+  "subtitle": "Aprovechamos tecnologías líderes en la industria para ofrecer soluciones de vanguardia a nuestros clientes empresariales.",
+  "technologies": {
+    "aws": "AWS",
+    "azure": "Azure",
+    "googleCloud": "Google Cloud",
+    "openai": "OpenAI",
+    "tensorflow": "TensorFlow",
+    "pytorch": "PyTorch",
+    "kubernetes": "Kubernetes",
+    "mlops": "MLOps"
+  }
+}

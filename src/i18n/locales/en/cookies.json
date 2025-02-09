@@ -1,0 +1,45 @@
+{
+  "title": "Cookie Policy",
+  "lastUpdated": "Last updated: {{date}}",
+  "introduction": "This Cookie Policy explains how we use cookies and similar tracking technologies on our website. By using our website, you consent to the use of cookies as described in this policy.",
+  "whatAreCookies": {
+    "title": "What Are Cookies?",
+    "content": "Cookies are small text files that are stored on your device when you visit a website. They are widely used to make websites work more efficiently and provide useful information to website owners."
+  },
+  "types": {
+    "necessary": {
+      "title": "Necessary Cookies",
+      "description": "These cookies are essential for the website to function properly. They enable basic functions like page navigation and access to secure areas of the website."
+    },
+    "functional": {
+      "title": "Functional Cookies",
+      "description": "These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third-party providers."
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "These cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for individual users."
+    }
+  },
+  "preferences": {
+    "title": "Cookie Preferences",
+    "description": "You can adjust your cookie preferences here. Please note that disabling certain cookies may impact the functionality of the website.",
+    "save": "Save Preferences",
+    "saved": "Your cookie preferences have been saved.",
+    "required": "Required - Cannot be disabled"
+  },
+  "howToManage": {
+    "title": "How to Manage Cookies",
+    "content": "Most web browsers allow you to control cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience.",
+    "browsers": "Browser-specific instructions:"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "content": "If you have any questions about our Cookie Policy, please contact us at:",
+    "email": "Email",
+    "address": "Address"
+  }
+}

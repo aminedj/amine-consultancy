@@ -1,0 +1,14 @@
+{
+  "title": "Technologies We Master",
+  "subtitle": "We leverage industry-leading technologies to deliver cutting-edge solutions for our enterprise clients.",
+  "technologies": {
+    "aws": "AWS",
+    "azure": "Azure",
+    "googleCloud": "Google Cloud",
+    "openai": "OpenAI",
+    "tensorflow": "TensorFlow",
+    "pytorch": "PyTorch",
+    "kubernetes": "Kubernetes",
+    "mlops": "MLOps"
+  }
+}

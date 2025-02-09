@@ -1,0 +1,35 @@
+{
+  "title": "Privacy Policy",
+  "lastUpdated": "Last updated: {{date}}",
+  "introduction": "Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services.",
+  "dataCollection": {
+    "title": "Information We Collect",
+    "content": "We collect information that you provide directly to us, including name, email address, and any other information you choose to provide. We also automatically collect certain information when you use our services, including log data and device information."
+  },
+  "dataUsage": {
+    "title": "How We Use Your Information",
+    "content": "We use the information we collect to provide, maintain, and improve our services, to develop new services, and to protect us and our users. We also use this information to communicate with you about our services."
+  },
+  "dataSecurity": {
+    "title": "Data Security",
+    "content": "We implement appropriate technical and organizational security measures to protect the security of your personal information. However, please note that no method of transmission over the Internet is 100% secure."
+  },
+  "dataTransfer": {
+    "title": "International Data Transfer",
+    "content": "Your information may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where data protection laws may differ."
+  },
+  "dataRetention": {
+    "title": "Data Retention",
+    "content": "We retain personal information we collect from you for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements."
+  },
+  "yourRights": {
+    "title": "Your Rights",
+    "content": "You have the right to access, update, or delete your information. You can also object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "content": "If you have any questions about this Privacy Policy, please contact us at:",
+    "email": "Email",
+    "address": "Address"
+  }
+}

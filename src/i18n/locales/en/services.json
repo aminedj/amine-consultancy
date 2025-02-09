@@ -1,0 +1,21 @@
+{
+  "title": "Our Expertise",
+  "services": {
+    "aiIntegration": {
+      "title": "AI Integration",
+      "description": "Custom AI solutions that enhance decision-making and automate complex processes."
+    },
+    "cloudArchitecture": {
+      "title": "Cloud Architecture",
+      "description": "Scalable cloud infrastructure designed for enterprise performance and security."
+    },
+    "securityFirst": {
+      "title": "Security First",
+      "description": "Enterprise-grade security with AI-powered threat detection and prevention."
+    },
+    "performanceOptimization": {
+      "title": "Performance Optimization",
+      "description": "Advanced analytics and optimization for maximum operational efficiency."
+    }
+  }
+}

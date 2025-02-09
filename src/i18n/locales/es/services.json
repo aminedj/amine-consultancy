@@ -1,0 +1,21 @@
+{
+  "title": "Nuestra Experiencia",
+  "services": {
+    "aiIntegration": {
+      "title": "Integración de IA",
+      "description": "Soluciones personalizadas de IA que mejoran la toma de decisiones y automatizan procesos complejos."
+    },
+    "cloudArchitecture": {
+      "title": "Arquitectura Cloud",
+      "description": "Infraestructura cloud escalable diseñada para rendimiento y seguridad empresarial."
+    },
+    "securityFirst": {
+      "title": "Seguridad Primero",
+      "description": "Seguridad de nivel empresarial con detección y prevención de amenazas impulsada por IA."
+    },
+    "performanceOptimization": {
+      "title": "Optimización de Rendimiento",
+      "description": "Análisis avanzado y optimización para máxima eficiencia operativa."
+    }
+  }
+}

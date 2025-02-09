@@ -1,0 +1,44 @@
+{
+  "title": "Press & Media",
+  "subtitle": "Get the latest news, press releases, and media coverage about Your Agency's innovations in enterprise AI solutions.",
+  "sections": {
+    "pressReleases": {
+      "title": "Press Releases",
+      "searchPlaceholder": "Search press releases...",
+      "filterYear": "Filter by year",
+      "readMore": "Read More"
+    },
+    "mediaCoverage": {
+      "title": "Media Coverage",
+      "viewArticle": "View Article"
+    },
+    "mediaResources": {
+      "title": "Media Resources",
+      "pressKit": {
+        "title": "Press Kit",
+        "description": "Download our press kit containing logos, executive photos, and company information.",
+        "download": "Download Press Kit"
+      },
+      "mediaContact": {
+        "title": "Media Contact",
+        "description": "For press inquiries, please contact our media relations team.",
+        "email": "press@youragency.com",
+        "link": "Media Relations"
+      }
+    }
+  },
+  "companyFacts": {
+    "founded": {
+      "title": "Founded",
+      "value": "2018"
+    },
+    "recognition": {
+      "title": "Industry Recognition",
+      "value": "15+ Awards"
+    },
+    "growth": {
+      "title": "YoY Growth",
+      "value": "200%"
+    }
+  }
+}

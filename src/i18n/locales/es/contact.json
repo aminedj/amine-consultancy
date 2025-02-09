@@ -1,0 +1,13 @@
+{
+  "title": "Construyamos Algo Increíble Juntos",
+  "subtitle": "¿Listo para transformar tu empresa con soluciones de IA y cloud de vanguardia? Contacta con nuestros expertos hoy.",
+  "email": "contacto@tuagencia.com",
+  "phone": "+1 (555) 123-4567",
+  "address": "123 Avenida Innovación, Ciudad Tech, TC 12345",
+  "form": {
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "submit": "Enviar Mensaje"
+  }
+}

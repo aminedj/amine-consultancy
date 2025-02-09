@@ -1,0 +1,45 @@
+{
+  "title": "Política de Cookies",
+  "lastUpdated": "Última actualización: {{date}}",
+  "introduction": "Esta Política de Cookies explica cómo utilizamos las cookies y tecnologías de seguimiento similares en nuestro sitio web. Al utilizar nuestro sitio web, usted acepta el uso de cookies como se describe en esta política.",
+  "whatAreCookies": {
+    "title": "¿Qué Son las Cookies?",
+    "content": "Las cookies son pequeños archivos de texto que se almacenan en su dispositivo cuando visita un sitio web. Se utilizan ampliamente para hacer que los sitios web funcionen de manera más eficiente y proporcionar información útil a los propietarios del sitio web."
+  },
+  "types": {
+    "necessary": {
+      "title": "Cookies Necesarias",
+      "description": "Estas cookies son esenciales para que el sitio web funcione correctamente. Permiten funciones básicas como la navegación por páginas y el acceso a áreas seguras del sitio web."
+    },
+    "functional": {
+      "title": "Cookies Funcionales",
+      "description": "Estas cookies permiten que el sitio web proporcione funcionalidad y personalización mejoradas. Pueden ser establecidas por nosotros o por proveedores externos."
+    },
+    "analytics": {
+      "title": "Cookies Analíticas",
+      "description": "Estas cookies nos ayudan a entender cómo los visitantes interactúan con nuestro sitio web mediante la recopilación y el informe de información de forma anónima."
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Estas cookies se utilizan para rastrear visitantes en diferentes sitios web. La intención es mostrar anuncios que sean relevantes y atractivos para usuarios individuales."
+    }
+  },
+  "preferences": {
+    "title": "Preferencias de Cookies",
+    "description": "Puede ajustar sus preferencias de cookies aquí. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "save": "Guardar Preferencias",
+    "saved": "Sus preferencias de cookies han sido guardadas.",
+    "required": "Requerido - No se puede deshabilitar"
+  },
+  "howToManage": {
+    "title": "Cómo Gestionar las Cookies",
+    "content": "La mayoría de los navegadores web permiten controlar las cookies a través de sus preferencias de configuración. Sin embargo, si limita la capacidad de los sitios web para establecer cookies, puede empeorar su experiencia general como usuario.",
+    "browsers": "Instrucciones específicas del navegador:"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "content": "Si tiene alguna pregunta sobre nuestra Política de Cookies, contáctenos en:",
+    "email": "Correo electrónico",
+    "address": "Dirección"
+  }
+}

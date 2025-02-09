@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "title": "About Us",
+    "subtitle": "We're a team of innovators and experts dedicated to transforming enterprises through cutting-edge AI and cloud solutions."
+  },
+  "values": {
+    "title": "Our Values",
+    "innovation": {
+      "title": "Innovation",
+      "description": "Pushing boundaries and exploring new possibilities in technology"
+    },
+    "collaboration": {
+      "title": "Collaboration",
+      "description": "Working together to achieve extraordinary results"
+    },
+    "excellence": {
+      "title": "Excellence",
+      "description": "Delivering the highest quality in everything we do"
+    },
+    "impact": {
+      "title": "Impact",
+      "description": "Creating meaningful change for our clients and society"
+    }
+  },
+  "team": {
+    "title": "Our Leadership",
+    "sarah": "20+ years of experience in enterprise transformation and technology leadership",
+    "michael": "Former Google engineer with expertise in cloud architecture and AI systems",
+    "emily": "PhD in Machine Learning with focus on enterprise AI applications"
+  }
+}

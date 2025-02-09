@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "Join Our Team",
+    "subtitle": "Build the future of AI and cloud technology with us. We're looking for exceptional talent to help transform enterprises worldwide.",
+    "viewJobs": "View Open Positions",
+    "learnMore": "Learn About Our Culture"
+  },
+  "values": {
+    "title": "Our Values",
+    "innovation": {
+      "title": "Innovation First",
+      "description": "We push boundaries and embrace new technologies to solve complex challenges."
+    },
+    "collaboration": {
+      "title": "Better Together",
+      "description": "We believe in the power of diverse teams working towards common goals."
+    },
+    "impact": {
+      "title": "Make an Impact",
+      "description": "Every team member has the opportunity to make meaningful contributions."
+    }
+  },
+  "benefits": {
+    "title": "Why Join Us",
+    "remote": {
+      "title": "Remote-First",
+      "description": "Work from anywhere with flexible hours and collaborative tools."
+    },
+    "health": {
+      "title": "Comprehensive Benefits",
+      "description": "Full health coverage, retirement plans, and wellness programs."
+    },
+    "balance": {
+      "title": "Work-Life Balance",
+      "description": "Unlimited PTO, flexible schedules, and mental health days."
+    },
+    "learning": {
+      "title": "Growth & Development",
+      "description": "Learning stipend, conferences, and career development support."
+    }
+  },
+  "departments": {
+    "all": "All Departments",
+    "engineering": "Engineering",
+    "data": "Data Science",
+    "security": "Security",
+    "product": "Product"
+  },
+  "openings": {
+    "title": "Open Positions",
+    "search": "Search positions...",
+    "apply": "Apply Now",
+    "noResults": "No positions found matching your criteria.",
+    "location": "Location",
+    "type": "Type"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "companyName": "Tu Agencia",
+  "description": "Transformando empresas con soluciones de IA y cloud de vanguardia. Construyendo el futuro de la tecnología, una innovación a la vez.",
+  "copyright": "© {{year}} Tu Agencia. Todos los derechos reservados.",
+  "links": {
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "sitemap": "Mapa del sitio"
+  },
+  "sections": {
+    "solutions": {
+      "title": "Soluciones",
+      "aiIntegration": "Integración de IA",
+      "cloudArchitecture": "Arquitectura Cloud",
+      "security": "Seguridad Empresarial",
+      "analytics": "Análisis de Datos",
+      "mlops": "MLOps"
+    },
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre Nosotros",
+      "careers": "Carreras",
+      "blog": "Blog",
+      "press": "Prensa",
+      "partners": "Socios"
+    },
+    "resources": {
+      "title": "Recursos",
+      "documentation": "Documentación",
+      "caseStudies": "Casos de Éxito",
+      "whitePapers": "Libros Blancos",
+      "webinars": "Webinars",
+      "api": "Referencia API"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "cookies": "Política de Cookies",
+      "security": "Seguridad",
+      "compliance": "Cumplimiento"
+    }
+  },
+  "social": {
+    "twitter": "Síguenos en Twitter",
+    "linkedin": "Conéctate con nosotros en LinkedIn",
+    "github": "Ver nuestro GitHub"
+  }
+}
