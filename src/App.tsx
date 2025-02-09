@@ -20,12 +20,12 @@ import Security from './pages/legal/Security';
 import Compliance from './pages/legal/Compliance';
 import Careers from './pages/company/Careers';
 import Press from './pages/company/Press';
-import Partners from './pages/company/Partners';
-import Documentation from './pages/resources/Documentation';
-import WhitePapers from './pages/resources/WhitePapers';
-import Webinars from './pages/resources/Webinars';
-import ApiReference from './pages/resources/ApiReference';
-import Sitemap from './pages/Sitemap';
+// import Partners from './pages/company/Partners';
+// import Documentation from './pages/resources/Documentation';
+// import WhitePapers from './pages/resources/WhitePapers';
+// import Webinars from './pages/resources/Webinars';
+// import ApiReference from './pages/resources/ApiReference';
+// import Sitemap from './pages/Sitemap';
 
 function App() {
   return (
@@ -60,16 +60,16 @@ function App() {
           {/* Company Routes */}
           <Route path="/careers" element={<Careers />} />
           <Route path="/press" element={<Press />} />
-          <Route path="/partners" element={<Partners />} />
+          {/* <Route path="/partners" element={<Partners />} /> */}
           
           {/* Resources Routes */}
-          <Route path="/docs" element={<Documentation />} />
-          <Route path="/resources/white-papers" element={<WhitePapers />} />
-          <Route path="/resources/webinars" element={<Webinars />} />
-          <Route path="/docs/api" element={<ApiReference />} />
+          {/* <Route path="/docs" element={<Documentation />} /> */}
+          {/* <Route path="/resources/white-papers" element={<WhitePapers />} /> */}
+          {/* <Route path="/resources/webinars" element={<Webinars />} /> */}
+          {/* <Route path="/docs/api" element={<ApiReference />} /> */}
           
           {/* Other Routes */}
-          <Route path="/sitemap" element={<Sitemap />} />
+          {/* <Route path="/sitemap" element={<Sitemap />} /> */}
         </Routes>
         <Footer />
       </div>
