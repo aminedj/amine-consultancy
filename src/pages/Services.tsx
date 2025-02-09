@@ -10,8 +10,8 @@ export default function Services() {
   const services = [
     {
       icon: Brain,
-      title: t('services.aiIntegration.title'),
-      description: t('services.aiIntegration.description'),
+      title: t('services.services.aiIntegration.title'),
+      description: t('services.services.aiIntegration.description'),
       features: [
         'Natural Language Processing',
         'Machine Learning Models',
@@ -21,8 +21,8 @@ export default function Services() {
     },
     {
       icon: Cloud,
-      title: t('services.cloudArchitecture.title'),
-      description: t('services.cloudArchitecture.description'),
+      title: t('services.services.cloudArchitecture.title'),
+      description: t('services.services.cloudArchitecture.description'),
       features: [
         'Cloud Migration',
         'Infrastructure Optimization',
@@ -32,8 +32,8 @@ export default function Services() {
     },
     {
       icon: Shield,
-      title: t('services.securityFirst.title'),
-      description: t('services.securityFirst.description'),
+      title: t('services.services.securityFirst.title'),
+      description: t('services.services.securityFirst.description'),
       features: [
         'Threat Detection',
         'Security Audits',
@@ -43,8 +43,8 @@ export default function Services() {
     },
     {
       icon: Gauge,
-      title: t('services.performanceOptimization.title'),
-      description: t('services.performanceOptimization.description'),
+      title: t('services.services.performanceOptimization.title'),
+      description: t('services.services.performanceOptimization.description'),
       features: [
         'Performance Monitoring',
         'Load Balancing',
@@ -61,10 +61,10 @@ export default function Services() {
         <div className="container mx-auto px-6">
           <FadeInUp>
             <h1 className="text-5xl font-light tracking-tight text-gray-900 mb-6">
-              {t('services.hero.title')}
+              {t('services.services.hero.title')}
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl">
-              {t('services.hero.subtitle')}
+              {t('services.services.hero.subtitle')}
             </p>
           </FadeInUp>
         </div>

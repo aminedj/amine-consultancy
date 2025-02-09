@@ -17,29 +17,29 @@ export default function Services() {
   const services = [
     {
       icon: Brain,
-      title: t('services.aiIntegration.title'),
-      description: t('services.aiIntegration.description'),
+      title: t('services.services.aiIntegration.title'),
+      description: t('services.services.aiIntegration.description'),
       illustration: <AIIntegrationChart />,
       slug: 'ai-integration'
     },
     {
       icon: Cloud,
-      title: t('services.cloudArchitecture.title'),
-      description: t('services.cloudArchitecture.description'),
+      title: t('services.services.cloudArchitecture.title'),
+      description: t('services.services.cloudArchitecture.description'),
       illustration: <CloudArchitectureGraph />,
       slug: 'cloud-architecture'
     },
     {
       icon: Shield,
-      title: t('services.securityFirst.title'),
-      description: t('services.securityFirst.description'),
+      title: t('services.services.securityFirst.title'),
+      description: t('services.services.securityFirst.description'),
       illustration: <SecurityShieldAnimation />,
       slug: 'security'
     },
     {
       icon: Gauge,
-      title: t('services.performanceOptimization.title'),
-      description: t('services.performanceOptimization.description'),
+      title: t('services.services.performanceOptimization.title'),
+      description: t('services.services.performanceOptimization.description'),
       illustration: <PerformanceGraph />,
       slug: 'performance'
     }
@@ -50,9 +50,9 @@ export default function Services() {
       <div className="container mx-auto px-6">
         <FadeInUp>
           <div className="max-w-4xl mb-8">
-            <h2 className="heading-2 mb-4">{t('services.title')}</h2>
+            <h2 className="heading-2 mb-4">{t('services.services.title')}</h2>
             <p className="subtitle-large">
-              {t('services.subtitle')}
+              {t('services.services.subtitle')}
             </p>
           </div>
         </FadeInUp>

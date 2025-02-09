@@ -10,11 +10,11 @@ export default function Navbar() {
   const { t } = useTranslation();
 
   const navigation = [
-    { name: t('navigation.about'), href: '/about' },
-    { name: t('navigation.services'), href: '/services' },
-    { name: t('navigation.caseStudies'), href: '/case-studies' },
-    { name: t('navigation.blog'), href: '/blog' },
-    { name: t('navigation.contact'), href: '/contact' },
+    { name: t('common.navigation.about'), href: '/about' },
+    { name: t('common.navigation.services'), href: '/services' },
+    { name: t('common.navigation.caseStudies'), href: '/case-studies' },
+    { name: t('common.navigation.blog'), href: '/blog' },
+    { name: t('common.navigation.contact'), href: '/contact' },
   ];
 
   const isActive = (path: string) => location.pathname === path;
